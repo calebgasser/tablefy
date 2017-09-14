@@ -1,0 +1,27 @@
+{
+  "name": "tablefy",
+  "version": "1.0.0",
+  "description": "A simple package to turn MySQL responses into a command line table.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebgasser/tbfy.git"
+  },
+  "keywords": [
+    "table",
+    "command",
+    "line",
+    "mysql",
+    "sql",
+    "converter"
+  ],
+  "author": "Caleb Gasser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calebgasser/tbfy/issues"
+  },
+  "homepage": "https://github.com/calebgasser/tbfy#readme"
+}
