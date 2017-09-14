@@ -1,6 +1,6 @@
 {
   "name": "tablefy",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple package to turn MySQL responses into a command line table.",
   "main": "index.js",
   "scripts": {
