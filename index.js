@@ -8,7 +8,7 @@ module.exports = class Tablefy{
     this.output = '';
   }
   draw(query){
-    if(query){
+    if(query && query.length){
       this.setHeaders(query);
       this.setRows(query);
       this.render();
